@@ -10,7 +10,7 @@
 
     $ cat /c/Users/Lenovo/.ssh/id_rsa.pub // cat affiche le contenu d'un fichier 
 ## verifier la connection avec le depot distant via SSH
-    ssh -T git@github.com
+    ssh -T git@github.com .
     
 
 
