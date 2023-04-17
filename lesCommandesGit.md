@@ -77,3 +77,6 @@
      git pull 
      
      pull = fetch + merge
+
+ ## changer rmote repot 
+     git remote set-url origin <remote url>  
