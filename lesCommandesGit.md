@@ -7,7 +7,7 @@
     -a : pour afficher les dossies caches
  ## rm 
     sert a suprimer les fichiers et les repertoires .
-    Pour les fichiers il faut ajout les deux options suivant :
+    Pour les fichiers il faut ajouter les deux options suivant :
     -r 
     -f : forcer la supression sans  demander de confirmation, même s'il est protégé contre l'écriture ou s'il contient des fichiers en lecture seule. 
 # les commandes Git      
