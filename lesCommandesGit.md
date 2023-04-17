@@ -67,4 +67,4 @@
     git push -u origin master (main)
  # configurer push par default 
     git config --global push.default simple
-       ----> git push    
+       ----> git push .   
