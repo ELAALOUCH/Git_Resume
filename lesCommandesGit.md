@@ -63,3 +63,8 @@
             git push -u origin main
  ## Afficher les repos distants
     git remote -v
+ ## envoyer le dipot local a github 
+    git push -u origin master (main)
+ # configurer push par default 
+    git config --global push.default simple
+       ----> git push    
