@@ -65,7 +65,15 @@
     git remote -v
  ## envoyer le dipot local a github 
     git push -u origin master (main)
- # configurer push par default 
+ ## configurer push par default 
     git config --global push.default simple
        ----> git push 
-    or  git push --set-upstream origin dev      
+    or  git push --set-upstream origin dev     
+   
+   ### NB:
+     impossible de pusher le depot si les deux depots sont diffs (ils doivent etre identiques)
+     avant de faire pusher il faut faire le pull ou bien fetch
+ ## Pull & fetch
+     git pull 
+     
+     pull = fetch + merge
