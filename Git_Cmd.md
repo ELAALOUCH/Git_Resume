@@ -86,4 +86,4 @@
      git push origin :<branch par exemple >
      : sert  a supprimer
  ## commit + close issue
-     git commit -m "message , **close <#id_issue> ** "    
+     git commit -m "message , **close <#id_issue> ** " 
