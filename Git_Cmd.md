@@ -80,3 +80,6 @@
 
  ## changer rmote repot 
      git remote set-url origin <remote url>  
+ ## supprimer qlq chose de distant en local 
+     git push origin :<branch par exemple >
+     : sert  a supprimer
