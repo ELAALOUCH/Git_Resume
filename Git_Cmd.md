@@ -37,8 +37,10 @@
  ## afficher l'historique (log)
     git log 
     git show 
+       -> git log --oneline
  ## Creer un tag
-    git tag <tag name>      
+    git tag <tag name> <branch name : fucultatif>   // on peut specifier le tage pour la branche  
+       -> git show <le nom de tag > pour visualiser le code de tag     
  ## liste des tags 
     git tag --list 
  ## Supprimer un tage 
@@ -83,3 +85,4 @@
  ## supprimer qlq chose de distant en local 
      git push origin :<branch par exemple >
      : sert  a supprimer
+     
