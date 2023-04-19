@@ -60,7 +60,7 @@
       …or push an existing repository from the command line
             git remote add origin <git@github.com:ELAALOUCH/tttt.git>
             git branch -M main
-            git push -u origin main
+            git push -u origin main.
  ## Afficher les repos distants
     git remote -v
  ## envoyer le dipot local a github 
