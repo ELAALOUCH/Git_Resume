@@ -18,8 +18,6 @@
     sert a ajouter touts les fichier de ext x
         exp : git add *.html
  ## git       
- ## git commit -am " message"
-    si le fichier est deja tracker, cette methode marche bien  (deconseiller)
  ## git ls-files 
     sert a afficher les fichiers tracker
  ## git restore --staged <files>  
