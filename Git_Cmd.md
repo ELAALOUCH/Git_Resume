@@ -23,7 +23,7 @@
  ## git ls-files 
     sert a afficher les fichiers tracker
  ## git restore --staged <files>  
-    pour supprier un track   
+    pour supprimer un track   
  ## pour supprimer une modification dans working repo 
     git restore <file name >  
  ## Creer une Branche 
@@ -48,7 +48,7 @@
  ## Retourner en arriere (Reset)
     git reset <id>  --soft    (logique)
     git reset <physique> -- hard (physique)
- ## Visualiser historique en cad de reset hard 
+ ## Visualiser historique en cas de reset hard 
     git reflog 
  ## les commandes de la liaison entre git et github est donne par github
       …or create a new repository on the command line
