@@ -43,9 +43,8 @@
     git tag --list 
  ## Supprimer un tage 
     git tag -d <tag name >  
- ## Retourner en arriere (Reset)
-    git reset <id>  --soft    (logique)
-    git reset <physique> -- hard (physique)
+ ## Retourner en arriere (Reset) 
+    git reset  --hard  id (physique)
  ## Visualiser historique en cas de reset hard 
     git reflog 
  ## les commandes de la liaison entre git et github est donne par github
@@ -72,13 +71,13 @@
    
    ### NB:
      impossible de pusher le depot si les deux depots sont diffs (ils doivent etre identiques)
-     avant de faire pusher il faut faire le pull ou bien fetch
+     avant de faire pusher il faut faire le pull 
  ## Pull & fetch
      git pull 
      
      pull = fetch + merge
 
- ## changer rmote repot 
+ ## changer remote repot 
      git remote set-url origin <remote url>  
  ## supprimer qlq chose de distant en local 
      git push origin :<branch par exemple >
