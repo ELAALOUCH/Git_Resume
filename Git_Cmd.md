@@ -89,6 +89,6 @@
      git flow init
   ## creation d'une nouvelle fonctionnalite
      git flow feature start <feature name> 
-  ## feature finsh and merge to develop branch 
+  ## feature finish and merge to develop branch 
      git flow feature finish <feature name> 
  
