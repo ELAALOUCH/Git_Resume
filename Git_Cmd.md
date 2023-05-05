@@ -84,3 +84,11 @@
      : sert  a supprimer
  ## commit + close issue
      git commit -m "message , close <#id_issue>  " 
+#GitFlow
+  ## initialiser GitFlow 
+     git flow init
+  ## creation d'une nouvelle fonctionnalite
+     git flow feature start <feature name> 
+  ## feature finsh and merge to develop branch 
+     git flow feature finish <feature name> 
+ 
