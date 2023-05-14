@@ -1,15 +1,4 @@
-# les commandes linux de bases 
- ## ls 
-    sert a afficher les dossiers et les fichiers du repertoire pointe
-  les options :
-    -r : affichera non seulement les fichiers et dossiers du répertoire actuel, mais aussi de tous les sous-répertoires inclus dans le    répertoire actuel.
-    -l : pour afficher les fichiers et les répertoires sous forme détaillée
-    -a : pour afficher les dossies caches
- ## rm 
-    sert a suprimer les fichiers et les repertoires 
-    Pour les fichiers il faut ajouter les deux options suivant :
-    -r 
-    -f : forcer la supression sans  demander de confirmation, même s'il est protégé contre l'écriture ou s'il contient des fichiers en lecture seule. 
+
 # les commandes Git      
  ## git add 
     -git add : sert a ajouter le fichier a Staging area 
